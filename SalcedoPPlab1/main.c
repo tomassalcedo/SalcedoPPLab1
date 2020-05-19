@@ -68,6 +68,7 @@ do
         break;
 
     case 'd':
+        ordenarAutos(listaA,TAMA,Marcas,TAMM);
         mostrarAutos(listaA,TAMA,Marcas,TAMM,Colores,TAMC);
         system("pause");
         break;

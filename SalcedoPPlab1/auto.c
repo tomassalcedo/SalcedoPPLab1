@@ -347,6 +347,52 @@ void cargarInformacionAuto(char descripcion[] ,int id,eAuto vecA[],int tamA)
 }
 
 
+void ordenarAutos(eAuto vecA[],int tamA,eMarca vecM[],int tamM)
+{
 
+    eAuto auxAuto;
+
+    char marca1[20];
+    char marca2[20];
+
+    for(int i=0; i < tamA-1;i++)
+    {
+        cargarDescripcionMarca(marca1,vecA[i].idMarca,vecM,tamM);
+
+        for(int j=i+1; j < tamA;j++)
+        {
+
+            cargarDescripcionMarca(marca2,vecA[j].idMarca,vecM,tamM);
+
+            if(strcmp(marca1,marca2)>0)
+            {
+                auxAuto=vecA[i];
+                vecA[i]=vecA[j];
+                vecA[j]=auxAuto;
+
+
+
+            }
+            else
+            {
+               if((strcmp(marca1,marca2)==0)&&(strcmp(vecA[i].patente,vecA[j].patente)>0))
+               {
+
+
+                auxAuto=vecA[i];
+                vecA[i]=vecA[j];
+                vecA[j]=auxAuto;
+
+
+
+               }
+            }
+
+        }
+
+    }
+
+
+}
 
 

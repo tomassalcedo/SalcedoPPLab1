@@ -41,3 +41,5 @@ int buscarAuto(int patente, eAuto vecA[],int tamA);
 void modificarAuto(eAuto vecA[],int tamA,eMarca vecM[], int tamM,eColor vecC[],int tamC);
 
 void cargarInformacionAuto(char descripcio[] ,int id,eAuto vecA[],int tamA);
+
+void ordenarAutos(eAuto vecA[],int tamA,eMarca vecM[],int tamM);

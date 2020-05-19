@@ -157,3 +157,60 @@
 	"trabajo.h"
 	"menu.h"
 
+1589928616 source:c:\users\tecnoset\desktop\salcedopplab1\salcedopplab1\color.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+	<string.h>
+
+1589928616 c:\users\tecnoset\desktop\salcedopplab1\salcedopplab1\color.h
+
+1589928616 source:c:\users\tecnoset\desktop\salcedopplab1\salcedopplab1\marca.c
+	"auto.h"
+	"color.h"
+
+1589928752 c:\users\tecnoset\desktop\salcedopplab1\salcedopplab1\auto.h
+	"marca.h"
+	"color.h"
+
+1589928616 c:\users\tecnoset\desktop\salcedopplab1\salcedopplab1\marca.h
+
+1589928616 source:c:\users\tecnoset\desktop\salcedopplab1\salcedopplab1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1589928616 c:\users\tecnoset\desktop\salcedopplab1\salcedopplab1\menu.h
+
+1589928616 source:c:\users\tecnoset\desktop\salcedopplab1\salcedopplab1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1589928616 c:\users\tecnoset\desktop\salcedopplab1\salcedopplab1\servicio.h
+
+1589928616 source:c:\users\tecnoset\desktop\salcedopplab1\salcedopplab1\trabajo.c
+	"fecha.h"
+	"trabajo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1589928616 c:\users\tecnoset\desktop\salcedopplab1\salcedopplab1\fecha.h
+
+1589928616 c:\users\tecnoset\desktop\salcedopplab1\salcedopplab1\trabajo.h
+	"fecha.h"
+	"auto.h"
+	"servicio.h"
+
+1589928616 source:c:\users\tecnoset\desktop\salcedopplab1\salcedopplab1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1589928616 c:\users\tecnoset\desktop\salcedopplab1\salcedopplab1\validaciones.h
+
