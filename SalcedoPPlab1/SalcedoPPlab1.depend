@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1589848846 source:c:\users\tecnoset\desktop\proyectos\salcedopplab1\color.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+	<string.h>
+
+1589660450 source:c:\users\tecnoset\desktop\proyectos\salcedopplab1\fecha.c
+
+1589848802 source:c:\users\tecnoset\desktop\proyectos\salcedopplab1\marca.c
+	"auto.h"
+	"color.h"
+
+1589917092 source:c:\users\tecnoset\desktop\proyectos\salcedopplab1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1589923917 source:c:\users\tecnoset\desktop\proyectos\salcedopplab1\auto.c
+	"auto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+	"color.h"
+	"validaciones.h"
+
+1589919936 c:\users\tecnoset\desktop\proyectos\salcedopplab1\auto.h
+	"marca.h"
+	"color.h"
+
+1589924891 source:c:\users\tecnoset\desktop\proyectos\salcedopplab1\trabajo.c
+	"fecha.h"
+	"trabajo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1589661078 c:\users\tecnoset\desktop\proyectos\salcedopplab1\fecha.h
+
+1589922482 c:\users\tecnoset\desktop\proyectos\salcedopplab1\trabajo.h
+	"fecha.h"
+	"auto.h"
+	"servicio.h"
+
+1589924596 source:c:\users\tecnoset\desktop\proyectos\salcedopplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"auto.h"
+	"color.h"
+	"fecha.h"
+	"marca.h"
+	"servicio.h"
+	"trabajo.h"
+	"menu.h"
+
+1589848441 c:\users\tecnoset\desktop\proyectos\salcedopplab1\color.h
+
+1589843586 c:\users\tecnoset\desktop\proyectos\salcedopplab1\marca.h
+
+1589851313 c:\users\tecnoset\desktop\proyectos\salcedopplab1\servicio.h
+
+1589689053 source:c:\users\tecnoset\desktop\proyectos\salcedopplab1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1589688013 c:\users\tecnoset\desktop\proyectos\salcedopplab1\menu.h
+
+1589843312 source:c:\users\tecnoset\desktop\proyectos\salcedopplab1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1589843312 c:\users\tecnoset\desktop\proyectos\salcedopplab1\validaciones.h
+
+1589925216 source:c:\users\tecnoset\desktop\salcedopplab1\auto.c
+	"auto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+	"color.h"
+	"validaciones.h"
+
+1589919936 c:\users\tecnoset\desktop\salcedopplab1\auto.h
+	"marca.h"
+	"color.h"
+
+1589843586 c:\users\tecnoset\desktop\salcedopplab1\marca.h
+
+1589848441 c:\users\tecnoset\desktop\salcedopplab1\color.h
+
+1589843312 c:\users\tecnoset\desktop\salcedopplab1\validaciones.h
+
+1589848846 source:c:\users\tecnoset\desktop\salcedopplab1\color.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+	<string.h>
+
+1589660450 source:c:\users\tecnoset\desktop\salcedopplab1\fecha.c
+
+1589848802 source:c:\users\tecnoset\desktop\salcedopplab1\marca.c
+	"auto.h"
+	"color.h"
+
+1589689053 source:c:\users\tecnoset\desktop\salcedopplab1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1589688013 c:\users\tecnoset\desktop\salcedopplab1\menu.h
+
+1589917092 source:c:\users\tecnoset\desktop\salcedopplab1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1589851313 c:\users\tecnoset\desktop\salcedopplab1\servicio.h
+
+1589924891 source:c:\users\tecnoset\desktop\salcedopplab1\trabajo.c
+	"fecha.h"
+	"trabajo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1589661078 c:\users\tecnoset\desktop\salcedopplab1\fecha.h
+
+1589922482 c:\users\tecnoset\desktop\salcedopplab1\trabajo.h
+	"fecha.h"
+	"auto.h"
+	"servicio.h"
+
+1589843312 source:c:\users\tecnoset\desktop\salcedopplab1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1589925053 source:c:\users\tecnoset\desktop\salcedopplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"auto.h"
+	"color.h"
+	"fecha.h"
+	"marca.h"
+	"servicio.h"
+	"trabajo.h"
+	"menu.h"
+
